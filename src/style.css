@@ -1,0 +1,35 @@
+.container {
+  display: block;
+  font-family: monospace;
+  color: #4a1cb5;
+  padding: 20px;
+}
+.meteor {
+  position: absolute;
+  padding: 30px;
+  right: 0;
+  top: 25;
+  width: 150px;
+}
+.dates {
+  position: absolute;
+  padding-top: 30px;
+  right: 0;
+  top: 0;
+  width: 150px;
+}
+.current {
+  opacity: 35%;
+  padding-top: 15px;
+}
+.card {
+  width: auto;
+  font-weight: 100;
+}
+
+body {
+  background-image: url("yellow_flowers.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+}

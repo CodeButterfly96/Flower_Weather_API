@@ -4,13 +4,14 @@
   color: #026c9e;
   padding: 20px;
 }
-.meteor {
+.blooming {
   position: absolute;
   padding: 30px;
   right: 0;
   top: 25;
   width: 150px;
 }
+
 .dates {
   position: absolute;
   padding-top: 30px;
